@@ -2,7 +2,7 @@
 **Lost in Translation** is a multilingual AI translator that goes beyond literal translation. It explains the cultural and emotional context behind each phrase—bridging not just language, but understanding.
 
 > **Phase 1:** Korean → English
-> Planned Expansion: Japanese, Mandarin, and beyond
+> **Planned Expansion:** Japanese, Mandarin, and beyond
 
 ---
 
